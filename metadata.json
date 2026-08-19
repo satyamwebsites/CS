@@ -1,0 +1,6 @@
+{
+  "name": "ICSI CSEET Feb 2027 Mastery Engine",
+  "description": "Authoritative AI-powered learning, testing, PYQ-analysis and exam-simulation system for the Restructured ICSI CSEET February 2027 examination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
